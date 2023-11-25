@@ -1,0 +1,16 @@
+
+Introduction to Spark MLlib
+MLlib is Spark's machine learning (ML) library makes the implementation of different machine learning algorithms scalable and easy. The main features of MLlib can be summarized as follows:
+ML Algorithms: common learning algorithms such as classification, regression, clustering, and collaborative filtering
+Featurization: feature extraction, transformation, dimensionality reduction, and selection
+Pipelines: tools for constructing, evaluating, and tuning ML Pipelines
+Persistence: saving and load algorithms, models, and Pipelines
+
+Transformers, estimators, and pipelines:
+First, let's start with ML Pipelines. ML Pipelines provide a uniform set of high-level APIs built on top of DataFrames allowing users to create and tune practical machine learning pipelines.
+Transformer: A Transformer is an algorithm which can transform one DataFrame into another DataFrame. E.g., an ML model is a Transformer which transforms a DataFrame with features into a DataFrame with predictions.
+Estimator: An Estimator is an algorithm which can be fit on a DataFrame to produce a Transformer. E.g., a learning algorithm is an Estimator which trains on a DataFrame and produces a model.
+Pipeline: A Pipeline chains multiple Transformers and Estimators together to specify an ML workflow.
+Estimators and transformers
+
+

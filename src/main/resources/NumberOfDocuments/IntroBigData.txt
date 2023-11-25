@@ -1,0 +1,6 @@
+extremely large data sets (structured and unstructured) that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions.
+Main two sources of Big Data:
+Machine (computer generated)
+E.g.) App logs, surveillance data, imagery datasets
+Human-generated data
+E.g.) microblogs, blogs, reviews etc

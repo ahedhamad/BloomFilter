@@ -1,0 +1,16 @@
+By the end of this week, students gain the following knowledge and skills:
+know what NoSQL-based DBMs are
+MongoDB as a NoSql DBMSs, features, document data model
+Download and setup MongoDB
+create databases, collections
+insert/bulk insert documents within collections
+query documents
+Indexing
+aggregate queries
+
+create databases, collections, documents in MongoDB
+update documents
+build queries using different operators
+indexing fields
+creating dmongoDB cluster under mongoDB Atlas cloud service
+

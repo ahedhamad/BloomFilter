@@ -1,0 +1,12 @@
+finding duplicate documents in a list may look like a simple task
+use a hash table
+
+finding documents with differences such as typos or different words
+the problem becomes much more complex
+Ex) Our use-case example
+“Who was the first president of Palestine”
+“Who was the first ruler of Palestine”
+“Who was the first king of Jordan”
+		Jaccard similarity(q1,q2) = 6/8 = 0.75
+
+ the more common words, the bigger the Jaccard index, the more probable it is that two questions are a duplicate

@@ -1,0 +1,6 @@
+Querying structured datasets as well as distributed datasets, allowing relational queries expressed in SQL, HiveQL, or Scala to be executed using Spark.
+Import relational data from Parquet files and Hive tables
+Run SQL queries over imported data and existing RDDs
+How to build UDF and call during the manipulation of DataFrames
+Easily write RDDs out to Parquet files and other storage resources
+
