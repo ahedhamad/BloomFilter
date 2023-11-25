@@ -1,9 +1,9 @@
-Using SparkNLP to build a pipeline of annotators and process few sentences.
+Fifth - NLP : Using SparkNLP to build a pipeline of annotators and process few sentences.
 ILOs to be achieved:
 Importing SparkNLP libraries
 Starting SparkNLP
-Using Annotators, e.g., tokenizer, ner, SentenceDetector etc
+Using Annotators, e.g., tokenizer, ner,SentenceDetector etc
 Building a pipeline to connect annotators
-Building a model after fitting the pipline
+Building a model after fitting the pipeline
 Testing the model to process data
 

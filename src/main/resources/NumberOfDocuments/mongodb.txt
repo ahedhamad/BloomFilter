@@ -1,4 +1,4 @@
-By the end of this week, students gain the following knowledge and skills:
+Forth - Mongo DB : By the end of this week, students gain the following knowledge and skills:
 know what NoSQL-based DBMs are
 MongoDB as a NoSql DBMSs, features, document data model
 Download and setup MongoDB
